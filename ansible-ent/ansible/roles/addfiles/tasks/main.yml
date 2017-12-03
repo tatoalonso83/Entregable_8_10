@@ -1,0 +1,8 @@
+  - name: Add file A
+    copy: src=files/filea.txt dest=/tmp
+
+  - name: Add file B
+    copy: src=files/fileb.txt dest=/tmp
+
+
+
